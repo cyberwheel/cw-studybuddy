@@ -7,4 +7,5 @@ python-docx
 python-pptx
 unstructured
 Werkzeug
+markdown
 itsdangerous

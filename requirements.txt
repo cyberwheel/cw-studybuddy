@@ -1,11 +1,9 @@
 flask
 chromadb
 sentence-transformers
+numpy
 ollama
-pdfplumber
-python-docx
-python-pptx
-unstructured
-Werkzeug
+sympy
+bleach
 markdown
-itsdangerous
+matplotlib

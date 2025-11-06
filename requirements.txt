@@ -5,7 +5,5 @@ ollama
 markdown
 bleach
 tinycss2
-sympy
-matplotlib
 numpy
 werkzeug

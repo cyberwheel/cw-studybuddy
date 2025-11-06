@@ -1,9 +1,11 @@
 flask
 chromadb
 sentence-transformers
-numpy
 ollama
-sympy
-bleach
 markdown
+bleach
+tinycss2
+sympy
 matplotlib
+numpy
+werkzeug

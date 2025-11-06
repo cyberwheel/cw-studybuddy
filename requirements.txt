@@ -1,0 +1,10 @@
+flask
+chromadb
+sentence-transformers
+ollama
+pdfplumber
+python-docx
+python-pptx
+unstructured
+Werkzeug
+itsdangerous
